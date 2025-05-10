@@ -10,7 +10,7 @@ Relevant coursework: Analog Electronic Circuits, VLSI Circuit Design, Coding.
 💡 Technical Skills
 Programming Languages: Python, C, MATLAB
 Electrical Engineering: Circuit Design, Signal Processing, Embedded Systems.
-Tools & Technologies: SPICE Simulation, Oscilloscopes, Breadboarding, PCB Design
+Tools & Technologies: SPICE Simulation, Breadboarding, PCB Design,Coding.
 
 🚀 Projects
 Check out my repositories to see my electrical engineering projects from Tel Aviv University
