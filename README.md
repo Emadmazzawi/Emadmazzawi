@@ -1,5 +1,6 @@
 ## Hi there, I'm Emad Mazzawi 👋
-Electrical Engineering Student at Tel Aviv University/n
+Electrical Engineering Student at Tel Aviv University
+
 I'm a final-year Electrical Engineering student passionate about circuit design, signal processing, and embedded systems. This GitHub profile showcases my university projects and technical skills.
 🔭 Education
 B.Sc. in Electrical and Electronic Engineering, Tel Aviv University (2020-Present)
