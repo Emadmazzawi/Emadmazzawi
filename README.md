@@ -11,16 +11,20 @@ Relevant coursework: Analog Electronic Circuits, VLSI Circuit Design, Coding.
 Programming Languages: Python, C, MATLAB
 Electrical Engineering: Circuit Design, Signal Processing, Embedded Systems.
 Tools & Technologies: SPICE Simulation, Oscilloscopes, Breadboarding, PCB Design
+
 🚀 Projects
 Check out my repositories to see my electrical engineering projects from Tel Aviv University
 Projects include circuit design, signal processing applications, and embedded systems
+
 🌱 I'm currently learning
 Advanced VLSI design techniques
 Embedded systems programming
 PCB design and fabrication
+
 📫 How to reach me
 Email: emad.mazzawi@gmail.com
 LinkedIn: emad mazzawi
+
 🌍 Languages
 Arabic (Native)
 Hebrew (Advanced)
