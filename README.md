@@ -1,20 +1,31 @@
 ## Hi there, I'm Emad Mazzawi 👋
 Electrical Engineering Student at Tel Aviv University
 
-I'm a fourth-year Electrical Engineering student passionate about circuit design, signal processing, and embedded systems. This GitHub profile showcases my university projects and technical skills.
+I’m a 4th-year Electrical Engineering student at Tel Aviv University, passionate about circuit design, signal processing, and embedded systems. This GitHub highlights my university projects and hands-on technical work.
 
 🔭 Education
-B.Sc. in Electrical and Electronic Engineering, Tel Aviv University (2020-Present)
-Relevant coursework: Analog Electronic Circuits, VLSI Circuit Design, Coding.
+B.Sc. in Electrical & Electronic Engineering – Tel Aviv University (2020–Present)
+Relevant coursework: Analog Circuits, VLSI Design,video and Signal Processing, Computer Architecture, Embedded Systems.
 
 💡 Technical Skills
-Programming Languages: Python, C, MATLAB
-Electrical Engineering: Circuit Design, Signal Processing, Embedded Systems.
-Tools & Technologies: SPICE Simulation, Breadboarding, PCB Design,Coding.
+Programming: Python, C, MATLAB, Verilog/VHDL
+
+Electrical Engineering: Circuit Design, Signal Processing, Embedded Systems, VLSI
+
+Tools & Technologies: SPICE Simulation, Cadence Virtuoso, PCB Design, Breadboarding, OpenCV
 
 🚀 Projects
-Check out my repositories to see my electrical engineering projects from Tel Aviv University
-Projects include circuit design, signal processing applications, and embedded systems
+Highlighted university projects (repos coming soon / check pinned):
+
+4-core CPU Simulator (C): Implemented a cycle-accurate simulator with pipelining, hazards, bus arbitration, and cache coherence.
+
+Simplified DLX CPU (VHDL): Designed a DLX-like processor with full control logic, datapath, and ALU; tested on RESA hardware.
+
+4-bit ALU (VLSI): Built a custom ALU in Cadence with arithmetic, logical, and barrel-shift operations; optimized using Knowles adder.
+
+Fully Differential OTA (Analog ICs): Designed a two-stage fully differential amplifier with CMFB, achieving >60° phase margin and 54 MHz GBW.
+
+Video Processing Pipeline (Python/OpenCV): Developed a 4-stage system (stabilization, background subtraction, matting, tracking) to process and composite videos.
 
 🌱 I'm currently learning
 Advanced VLSI design techniques
