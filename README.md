@@ -1,57 +1,41 @@
-## Hi there, I'm Emad Mazzawi 👋
-Electrical Engineering Student at Tel Aviv University
+# Emad Mazzawi
 
-I’m a 4th-year Electrical Engineering student at Tel Aviv University, passionate about circuit design, signal processing, and embedded systems. This GitHub highlights my university projects and hands-on technical work.
+I'm a final-year Electrical and Electronic Engineering student at Tel Aviv University, graduating in July 2026. 
 
-🔭 Education
-B.Sc. in Electrical & Electronic Engineering – Tel Aviv University (2020–Present)
-Relevant coursework: Analog Circuits, VLSI Design,video and Signal Processing, Computer Architecture, Embedded Systems.
+My work sits right at the intersection of hardware design and software engineering. During my degree, I've focused heavily on circuit design, VLSI, and signal processing, but I also actively build full-stack applications and AI-integrated software tools. I like understanding how systems work from the silicon level all the way up to the user interface.
 
-💡 Technical Skills
-Programming: Python, C, MATLAB, Verilog/VHDL
+### What I Work On
 
-Electrical Engineering: Circuit Design, Signal Processing, Embedded Systems, VLSI
+**Hardware & Architecture**
+* **VLSI Design:** Implemented a full-flow 4-port packet switch and built a custom 4-bit ALU in Cadence (arithmetic, logical, and barrel-shift operations).
+* **CPU Simulation & Design:** Developed a cycle-accurate 4-core CPU simulator in C (handling pipelining, cache coherence, and bus arbitration) and designed a Simplified DLX processor in VHDL.
+* **Analog ICs:** Designed a two-stage fully differential OTA amplifier with CMFB (achieving >60° phase margin and 54 MHz GBW).
+* **Physical Analysis:** Analyzed n-type GaAs using Spectroscopic Ellipsometry across varying temperatures to extract optical constants.
 
-Tools & Technologies: SPICE Simulation, Cadence Virtuoso, PCB Design, Breadboarding, OpenCV
+**Software & Systems**
+* **Computer Vision:** Built a 4-stage video processing pipeline (stabilization, background subtraction, tracking) and a real-time webcam application for hand gesture and face recognition using Python and OpenCV.
+* **Full-Stack & Mobile:** Developing cross-platform mobile applications, including backend architecture and UI implementation using Flutter, Go, and React Native.
+* **Scripting & Automation:** Building job scrapers, audio-recognition algorithms, and integrating AI agentic tools into my WSL/Ubuntu development environment.
 
-🚀 Projects
-Highlighted university projects (repos coming soon / check pinned):
+### Tech Stack
 
-4-core CPU Simulator (C): Implemented a cycle-accurate simulator with pipelining, hazards, bus arbitration, and cache coherence.
+**Languages** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-e16737?style=flat-square)
+![Verilog/VHDL](https://img.shields.io/badge/Verilog%2FVHDL-4B0082?style=flat-square)
 
-Simplified DLX CPU (VHDL): Designed a DLX-like processor with full control logic, datapath, and ALU; tested on RESA hardware.
+**Software Dev** ![Linux](https://img.shields.io/badge/WSL%20Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-4-bit ALU (VLSI): Built a custom ALU in Cadence with arithmetic, logical, and barrel-shift operations; optimized using Knowles adder.
+**Hardware Tools** ![Cadence](https://img.shields.io/badge/Cadence-E31837?style=flat-square)
+![SPICE](https://img.shields.io/badge/SPICE-005571?style=flat-square)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-E31837?style=flat-square)
 
-Fully Differential OTA (Analog ICs): Designed a two-stage fully differential amplifier with CMFB, achieving >60° phase margin and 54 MHz GBW.
-
-Video Processing Pipeline (Python/OpenCV): Developed a 4-stage system (stabilization, background subtraction, matting, tracking) to process and composite videos.
-
-🌱 I'm currently learning
-Advanced VLSI design techniques
-Embedded systems programming
-PCB design and fabrication
-
-📫 How to reach me
-Email: emad.mazzawi@gmail.com
-LinkedIn: emad mazzawi
-
-🌍 Languages
-Arabic (Native)
-Hebrew (Advanced)
-English (Advanced)
-
-<!--
-**Emadmazzawi/Emadmazzawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Let's Connect
+* **Email:** emad.mazzawi@gmail.com
+* **LinkedIn:** [Insert your LinkedIn URL here]
+* **Portfolio:** [Insert your new personal website URL here]
