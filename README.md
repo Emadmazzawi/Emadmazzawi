@@ -1,21 +1,21 @@
 # Emad Mazzawi
 
-[cite_start]I'm a final-year Electrical Engineering student at Tel Aviv University, graduating in 2026[cite: 46]. 
+I'm a final-year Electrical Engineering student at Tel Aviv University, graduating in 2026. 
 
-[cite_start]My experience spans the full VLSI flow—from designing a DLX processor and writing RTL to logic synthesis and timing analysis[cite: 42]. [cite_start]I am currently deepening my verification skills with SystemVerilog and UVM, and I love building hardware that works[cite: 41, 43]. [cite_start]I combine pre-silicon design expertise with hands-on post-silicon validation and test automation[cite: 9, 10].
+My experience spans the full VLSI flow—from designing a DLX processor and writing RTL to logic synthesis and timing analysis. I am currently deepening my verification skills with SystemVerilog and UVM, and I love building hardware that works. I combine pre-silicon design expertise with hands-on post-silicon validation and test automation.
 
 ### What I Work On
 
 **ASIC Design & Verification (VLSI)**
-* [cite_start]**4-Port Packet Switch:** Completed a full-flow ASIC design of a modular network switch in SystemVerilog[cite: 53, 54]. 
-* [cite_start]**Advanced Verification:** Built a robust Layered Testbench from scratch using Object-Oriented Programming and constrained-random stimuli, achieving 100% functional coverage verified by an automated self-checking scoreboard[cite: 58, 59, 60]. 
-* [cite_start]**Logic Synthesis:** Synthesized to a 90nm standard cell library using Synopsys Design Compiler, performed PPA optimization, and validated the final netlist via Gate-Level Simulation (GLS)[cite: 62, 63, 64].
+* **4-Port Packet Switch:** Completed a full-flow ASIC design of a modular network switch in SystemVerilog. 
+* **Advanced Verification:** Built a robust Layered Testbench from scratch using Object-Oriented Programming and constrained-random stimuli, achieving 100% functional coverage verified by an automated self-checking scoreboard. 
+* **Logic Synthesis:** Synthesized to a 90nm standard cell library using Synopsys Design Compiler, performed PPA optimization, and validated the final netlist via Gate-Level Simulation (GLS).
 * **Custom ALU:** Built a custom 4-bit ALU in Cadence with arithmetic, logical, and barrel-shift operations.
 
 **Processor Architecture & FPGA Prototyping**
-* [cite_start]**DLX RISC Processor:** Developed a fully functional 32-bit RISC processor featuring a multi-stage datapath and a 19-state FSM controller[cite: 66].
-* [cite_start]**Hardware Implementation:** Synthesized and mapped the design to a Xilinx Spartan-6 FPGA, optimizing critical paths to achieve an operating frequency of 86.4 MHz (surpassing the 60 MHz specification)[cite: 67, 68].
-* [cite_start]**System Validation:** Wrote Assembly test programs to verify instruction execution and memory access on physical hardware[cite: 69].
+* **DLX RISC Processor:** Developed a fully functional 32-bit RISC processor featuring a multi-stage datapath and a 19-state FSM controller.
+* **Hardware Implementation:** Synthesized and mapped the design to a Xilinx Spartan-6 FPGA, optimizing critical paths to achieve an operating frequency of 86.4 MHz (surpassing the 60 MHz specification).
+* **System Validation:** Wrote Assembly test programs to verify instruction execution and memory access on physical hardware.
 
 **Analog ICs & Physical Analysis**
 * **Analog IC Design:** Designed a two-stage fully differential OTA amplifier with CMFB (achieving >60° phase margin and 54 MHz GBW).
@@ -39,4 +39,4 @@
 ![ModelSim](https://img.shields.io/badge/ModelSim-005571?style=flat-square)
 
 ### Let's Connect
-* [cite_start]**Email:** emad.mazzawi@gmail.com [cite: 36]
+* **Email:** emad.mazzawi@gmail.com
