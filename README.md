@@ -1,41 +1,42 @@
 # Emad Mazzawi
 
-I'm a final-year Electrical and Electronic Engineering student at Tel Aviv University, graduating in July 2026. 
+[cite_start]I'm a final-year Electrical Engineering student at Tel Aviv University, graduating in 2026[cite: 46]. 
 
-My work sits right at the intersection of hardware design and software engineering. During my degree, I've focused heavily on circuit design, VLSI, and signal processing, but I also actively build full-stack applications and AI-integrated software tools. I like understanding how systems work from the silicon level all the way up to the user interface.
+[cite_start]My experience spans the full VLSI flow—from designing a DLX processor and writing RTL to logic synthesis and timing analysis[cite: 42]. [cite_start]I am currently deepening my verification skills with SystemVerilog and UVM, and I love building hardware that works[cite: 41, 43]. [cite_start]I combine pre-silicon design expertise with hands-on post-silicon validation and test automation[cite: 9, 10].
 
 ### What I Work On
 
-**Hardware & Architecture**
-* **VLSI Design:** Implemented a full-flow 4-port packet switch and built a custom 4-bit ALU in Cadence (arithmetic, logical, and barrel-shift operations).
-* **CPU Simulation & Design:** Developed a cycle-accurate 4-core CPU simulator in C (handling pipelining, cache coherence, and bus arbitration) and designed a Simplified DLX processor in VHDL.
-* **Analog ICs:** Designed a two-stage fully differential OTA amplifier with CMFB (achieving >60° phase margin and 54 MHz GBW).
-* **Physical Analysis:** Analyzed n-type GaAs using Spectroscopic Ellipsometry across varying temperatures to extract optical constants.
+**ASIC Design & Verification (VLSI)**
+* [cite_start]**4-Port Packet Switch:** Completed a full-flow ASIC design of a modular network switch in SystemVerilog[cite: 53, 54]. 
+* [cite_start]**Advanced Verification:** Built a robust Layered Testbench from scratch using Object-Oriented Programming and constrained-random stimuli, achieving 100% functional coverage verified by an automated self-checking scoreboard[cite: 58, 59, 60]. 
+* [cite_start]**Logic Synthesis:** Synthesized to a 90nm standard cell library using Synopsys Design Compiler, performed PPA optimization, and validated the final netlist via Gate-Level Simulation (GLS)[cite: 62, 63, 64].
+* **Custom ALU:** Built a custom 4-bit ALU in Cadence with arithmetic, logical, and barrel-shift operations.
 
-**Software & Systems**
-* **Computer Vision:** Built a 4-stage video processing pipeline (stabilization, background subtraction, tracking) and a real-time webcam application for hand gesture and face recognition using Python and OpenCV.
-* **Full-Stack & Mobile:** Developing cross-platform mobile applications, including backend architecture and UI implementation using Flutter, Go, and React Native.
-* **Scripting & Automation:** Building job scrapers, audio-recognition algorithms, and integrating AI agentic tools into my WSL/Ubuntu development environment.
+**Processor Architecture & FPGA Prototyping**
+* [cite_start]**DLX RISC Processor:** Developed a fully functional 32-bit RISC processor featuring a multi-stage datapath and a 19-state FSM controller[cite: 66].
+* [cite_start]**Hardware Implementation:** Synthesized and mapped the design to a Xilinx Spartan-6 FPGA, optimizing critical paths to achieve an operating frequency of 86.4 MHz (surpassing the 60 MHz specification)[cite: 67, 68].
+* [cite_start]**System Validation:** Wrote Assembly test programs to verify instruction execution and memory access on physical hardware[cite: 69].
+
+**Analog ICs & Physical Analysis**
+* **Analog IC Design:** Designed a two-stage fully differential OTA amplifier with CMFB (achieving >60° phase margin and 54 MHz GBW).
+* **Physical Analysis:** Analyzed n-type GaAs using Spectroscopic Ellipsometry across varying temperatures to extract optical constants.
 
 ### Tech Stack
 
-**Languages** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-e16737?style=flat-square)
+**Hardware Description & Verification** ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-00599C?style=flat-square)
 ![Verilog/VHDL](https://img.shields.io/badge/Verilog%2FVHDL-4B0082?style=flat-square)
+![UVM](https://img.shields.io/badge/UVM-8A2BE2?style=flat-square)
 
-**Software Dev** ![Linux](https://img.shields.io/badge/WSL%20Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+**Programming & Scripting** ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square)
+![Bash/Shell](https://img.shields.io/badge/Bash%2FShell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Tcl](https://img.shields.io/badge/Tcl-1866B0?style=flat-square)
 
-**Hardware Tools** ![Cadence](https://img.shields.io/badge/Cadence-E31837?style=flat-square)
-![SPICE](https://img.shields.io/badge/SPICE-005571?style=flat-square)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-E31837?style=flat-square)
+**EDA & Hardware Tools** ![Synopsys](https://img.shields.io/badge/Synopsys_Design_Compiler-502C6E?style=flat-square)
+![Xilinx Vivado](https://img.shields.io/badge/Xilinx_Vivado-E31837?style=flat-square)
+![Cadence](https://img.shields.io/badge/Cadence-E31837?style=flat-square)
+![ModelSim](https://img.shields.io/badge/ModelSim-005571?style=flat-square)
 
 ### Let's Connect
-* **Email:** emad.mazzawi@gmail.com
-* **LinkedIn:** [Insert your LinkedIn URL here]
-* **Portfolio:** [Insert your new personal website URL here]
+* [cite_start]**Email:** emad.mazzawi@gmail.com [cite: 36]
